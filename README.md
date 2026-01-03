@@ -1,2 +1,16 @@
-# LawyerAI-Intake
-Streamline client intake and triage for Ontario law firms with AI-powered automation.
+
+
+
+## Running the app
+
+```bash
+npm install
+npm run dev
+```
+
+## Building the app
+
+```bash
+npm run build
+```
+
